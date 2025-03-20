@@ -2,9 +2,6 @@
 
 Welcome to the official [finite](https://fi-nite.vercel.app) mirror on github!
 
+This is also home for some of the projects that charlie works on because pushing to github was better.
 
-Please note that no pull requests will be acceped here (unless we can)
-only some things that maintainers need over here will work.
-
-
-please check out our things over at https://git.gay/finite
+all of our projects can be found at https://git.carsoncoder.com/finite
