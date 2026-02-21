@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-Welcome to the official [finite](https://fi-nite.vercel.app) Organisation on github!
+Welcome to the official [finite](https://finite.ovh) Organisation on github!
 
-this is our home. our old one had been shifted into a higher plane of existance and we kind of had to find a new home XD
+for any inquiries on products for bussness use, please contact charlie@finite.ovh for more information.
 
-
-you can find our current projects like MicrOS, jmasm, CMASM and the lot here to play around with and use for any daily tasks too.
+Note: all projects without a licence are marked as AGPL V3.
